@@ -1,0 +1,22 @@
+name: TrainyCore
+auhtor: Shall0wer
+version: 1.0
+main: fr.shall0wer.trainycore.Main
+commands:
+  pinfo:
+  punish:
+    aliases: ss
+  uuid:
+  testcore:
+  tete:
+  rclist:
+  chatreport:
+  dev:
+  gamemode:
+    aliases: gm
+  mod:
+  tp:
+  discord:
+  chat:
+  youtube:
+    aliases: yt
